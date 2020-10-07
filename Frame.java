@@ -54,7 +54,9 @@ public class Frame extends JFrame implements ActionListener{
 	
 	private JLabel professionLbl = new JLabel("PROFESSION: ");
 	private JComboBox<String> professionTxt = new JComboBox<String>();
-	
+	// edfnvei ejnfiuveio nundnweifw jniewef rjfviro93r iuvnfreiojf njdcwefihwf90w
+	//dfjfiuerfr vfjv
+	//fgefnjkghvienjerihusd qwhiuehfefv jbdvhwubv iudiuhwhow
 	
 	
 	private JPanel panel4 = new JPanel();
